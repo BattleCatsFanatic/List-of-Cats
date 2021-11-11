@@ -1,0 +1,155 @@
+{"itemId":0,"itemCategory":4,"amount":1,"title":"Attack Up D: Red"}
+{"itemId":1,"itemCategory":4,"amount":1,"title":"Attack Up C: Red"}
+{"itemId":2,"itemCategory":4,"amount":1,"title":"Attack Up B: Red"}
+{"itemId":3,"itemCategory":4,"amount":1,"title":"Attack Up A: Red"}
+{"itemId":4,"itemCategory":4,"amount":1,"title":"Attack Up S: Red"}
+{"itemId":5,"itemCategory":4,"amount":1,"title":"Defense Up D: Red"}
+{"itemId":6,"itemCategory":4,"amount":1,"title":"Defense Up C: Red"}
+{"itemId":7,"itemCategory":4,"amount":1,"title":"Defense Up B: Red"}
+{"itemId":8,"itemCategory":4,"amount":1,"title":"Defense Up A: Red"}
+{"itemId":9,"itemCategory":4,"amount":1,"title":"Defense Up S: Red"}
+{"itemId":10,"itemCategory":4,"amount":1,"title":"Attack Up D: Floating"}
+{"itemId":11,"itemCategory":4,"amount":1,"title":"Attack Up C: Floating"}
+{"itemId":12,"itemCategory":4,"amount":1,"title":"Attack Up B: Floating"}
+{"itemId":13,"itemCategory":4,"amount":1,"title":"Attack Up A: Floating"}
+{"itemId":14,"itemCategory":4,"amount":1,"title":"Attack Up S: Floating"}
+{"itemId":15,"itemCategory":4,"amount":1,"title":"Defense Up D: Floating"}
+{"itemId":16,"itemCategory":4,"amount":1,"title":"Defense Up C: Floating"}
+{"itemId":17,"itemCategory":4,"amount":1,"title":"Defense Up B: Floating"}
+{"itemId":18,"itemCategory":4,"amount":1,"title":"Defense Up A: Floating"}
+{"itemId":19,"itemCategory":4,"amount":1,"title":"Defense Up S: Floating"}
+{"itemId":20,"itemCategory":4,"amount":1,"title":"Attack Up D: Black"}
+{"itemId":21,"itemCategory":4,"amount":1,"title":"Attack Up C: Black"}
+{"itemId":22,"itemCategory":4,"amount":1,"title":"Attack Up B: Black"}
+{"itemId":23,"itemCategory":4,"amount":1,"title":"Attack Up A: Black"}
+{"itemId":24,"itemCategory":4,"amount":1,"title":"Attack Up S: Black"}
+{"itemId":25,"itemCategory":4,"amount":1,"title":"Defense Up D: Black"}
+{"itemId":26,"itemCategory":4,"amount":1,"title":"Defense Up C: Black"}
+{"itemId":27,"itemCategory":4,"amount":1,"title":"Defense Up B: Black"}
+{"itemId":28,"itemCategory":4,"amount":1,"title":"Defense Up A: Black"}
+{"itemId":29,"itemCategory":4,"amount":1,"title":"Defense Up S: Black"}
+{"itemId":30,"itemCategory":4,"amount":1,"title":"Defense Up D: Metal"}
+{"itemId":31,"itemCategory":4,"amount":1,"title":"Defense Up C: Metal"}
+{"itemId":32,"itemCategory":4,"amount":1,"title":"Defense Up B: Metal"}
+{"itemId":33,"itemCategory":4,"amount":1,"title":"Defense Up A: Metal"}
+{"itemId":34,"itemCategory":4,"amount":1,"title":"Defense Up S: Metal"}
+{"itemId":35,"itemCategory":4,"amount":1,"title":"Attack Up D: Angel"}
+{"itemId":36,"itemCategory":4,"amount":1,"title":"Attack Up C: Angel"}
+{"itemId":37,"itemCategory":4,"amount":1,"title":"Attack Up B: Angel"}
+{"itemId":38,"itemCategory":4,"amount":1,"title":"Attack Up A: Angel"}
+{"itemId":39,"itemCategory":4,"amount":1,"title":"Attack Up S: Angel"}
+{"itemId":40,"itemCategory":4,"amount":1,"title":"Defense Up D: Angel"}
+{"itemId":41,"itemCategory":4,"amount":1,"title":"Defense Up C: Angel"}
+{"itemId":42,"itemCategory":4,"amount":1,"title":"Defense Up B: Angel"}
+{"itemId":43,"itemCategory":4,"amount":1,"title":"Defense Up A: Angel"}
+{"itemId":44,"itemCategory":4,"amount":1,"title":"Defense Up S: Angel"}
+{"itemId":45,"itemCategory":4,"amount":1,"title":"Attack Up D: Alien"}
+{"itemId":46,"itemCategory":4,"amount":1,"title":"Attack Up C: Alien"}
+{"itemId":47,"itemCategory":4,"amount":1,"title":"Attack Up B: Alien"}
+{"itemId":48,"itemCategory":4,"amount":1,"title":"Attack Up A: Alien"}
+{"itemId":49,"itemCategory":4,"amount":1,"title":"Attack Up S: Alien"}
+{"itemId":50,"itemCategory":4,"amount":1,"title":"Defense Up D: Alien"}
+{"itemId":51,"itemCategory":4,"amount":1,"title":"Defense Up C: Alien"}
+{"itemId":52,"itemCategory":4,"amount":1,"title":"Defense Up B: Alien"}
+{"itemId":53,"itemCategory":4,"amount":1,"title":"Defense Up A: Alien"}
+{"itemId":54,"itemCategory":4,"amount":1,"title":"Defense Up S: Alien"}
+{"itemId":55,"itemCategory":4,"amount":1,"title":"Attack Up D: Zombie"}
+{"itemId":56,"itemCategory":4,"amount":1,"title":"Attack Up C: Zombie"}
+{"itemId":57,"itemCategory":4,"amount":1,"title":"Attack Up B: Zombie"}
+{"itemId":58,"itemCategory":4,"amount":1,"title":"Attack Up A: Zombie"}
+{"itemId":59,"itemCategory":4,"amount":1,"title":"Attack Up S: Zombie"}
+{"itemId":60,"itemCategory":4,"amount":1,"title":"Defense Up D: Zombie"}
+{"itemId":61,"itemCategory":4,"amount":1,"title":"Defense Up C: Zombie"}
+{"itemId":62,"itemCategory":4,"amount":1,"title":"Defense Up B: Zombie"}
+{"itemId":63,"itemCategory":4,"amount":1,"title":"Defense Up A: Zombie"}
+{"itemId":64,"itemCategory":4,"amount":1,"title":"Defense Up S: Zombie"}
+{"itemId":65,"itemCategory":4,"amount":1,"title":"Strong Effect UP D: Red"}
+{"itemId":66,"itemCategory":4,"amount":1,"title":"Strong Effect UP C: Red"}
+{"itemId":67,"itemCategory":4,"amount":1,"title":"Strong Effect UP B: Red"}
+{"itemId":68,"itemCategory":4,"amount":1,"title":"Strong Effect UP A: Red"}
+{"itemId":69,"itemCategory":4,"amount":1,"title":"Strong Effect UP S: Red"}
+{"itemId":70,"itemCategory":4,"amount":1,"title":"Massive Damage Up D: Red"}
+{"itemId":71,"itemCategory":4,"amount":1,"title":"Massive Damage Up C: Red"}
+{"itemId":72,"itemCategory":4,"amount":1,"title":"Massive Damage Up B: Red"}
+{"itemId":73,"itemCategory":4,"amount":1,"title":"Massive Damage Up A: Red"}
+{"itemId":74,"itemCategory":4,"amount":1,"title":"Massive Damage Up S: Red"}
+{"itemId":75,"itemCategory":4,"amount":1,"title":"Tough Effect Up D: Red"}
+{"itemId":76,"itemCategory":4,"amount":1,"title":"Tough Effect Up C: Red"}
+{"itemId":77,"itemCategory":4,"amount":1,"title":"Tough Effect Up B: Red"}
+{"itemId":78,"itemCategory":4,"amount":1,"title":"Tough Effect Up A: Red"}
+{"itemId":79,"itemCategory":4,"amount":1,"title":"Tough Effect Up S: Red"}
+{"itemId":80,"itemCategory":4,"amount":1,"title":"Strong Effect UP D: Floating"}
+{"itemId":81,"itemCategory":4,"amount":1,"title":"Strong Effect UP C: Floating"}
+{"itemId":82,"itemCategory":4,"amount":1,"title":"Strong Effect UP B: Floating"}
+{"itemId":83,"itemCategory":4,"amount":1,"title":"Strong Effect UP A: Floating"}
+{"itemId":84,"itemCategory":4,"amount":1,"title":"Strong Effect UP S: Floating"}
+{"itemId":85,"itemCategory":4,"amount":1,"title":"Massive Damage Up D: Floating"}
+{"itemId":86,"itemCategory":4,"amount":1,"title":"Massive Damage Up C: Floating"}
+{"itemId":87,"itemCategory":4,"amount":1,"title":"Massive Damage Up B: Floating"}
+{"itemId":88,"itemCategory":4,"amount":1,"title":"Massive Damage Up A: Floating"}
+{"itemId":89,"itemCategory":4,"amount":1,"title":"Massive Damage Up S: Floating"}
+{"itemId":90,"itemCategory":4,"amount":1,"title":"Tough Effect Up D: Floating"}
+{"itemId":91,"itemCategory":4,"amount":1,"title":"Tough Effect Up C: Floating"}
+{"itemId":92,"itemCategory":4,"amount":1,"title":"Tough Effect Up B: Floating"}
+{"itemId":93,"itemCategory":4,"amount":1,"title":"Tough Effect Up A: Floating"}
+{"itemId":94,"itemCategory":4,"amount":1,"title":"Tough Effect Up S: Floating"}
+{"itemId":95,"itemCategory":4,"amount":1,"title":"Strong Effect UP D: Black"}
+{"itemId":96,"itemCategory":4,"amount":1,"title":"Strong Effect UP C: Black"}
+{"itemId":97,"itemCategory":4,"amount":1,"title":"Strong Effect UP B: Black"}
+{"itemId":98,"itemCategory":4,"amount":1,"title":"Strong Effect UP A: Black"}
+{"itemId":99,"itemCategory":4,"amount":1,"title":"Strong Effect UP S: Black"}
+{"itemId":100,"itemCategory":4,"amount":1,"title":"Massive Damage Up D: Black"}
+{"itemId":101,"itemCategory":4,"amount":1,"title":"Massive Damage Up C: Black"}
+{"itemId":102,"itemCategory":4,"amount":1,"title":"Massive Damage Up B: Black"}
+{"itemId":103,"itemCategory":4,"amount":1,"title":"Massive Damage Up A: Black"}
+{"itemId":104,"itemCategory":4,"amount":1,"title":"Massive Damage Up S: Black"}
+{"itemId":105,"itemCategory":4,"amount":1,"title":"Tough Effect Up D: Black"}
+{"itemId":106,"itemCategory":4,"amount":1,"title":"Tough Effect Up C: Black"}
+{"itemId":107,"itemCategory":4,"amount":1,"title":"Tough Effect Up B: Black"}
+{"itemId":108,"itemCategory":4,"amount":1,"title":"Tough Effect Up A: Black"}
+{"itemId":109,"itemCategory":4,"amount":1,"title":"Tough Effect Up S: Black"}
+{"itemId":110,"itemCategory":4,"amount":1,"title":"Strong Effect UP D: Angel"}
+{"itemId":111,"itemCategory":4,"amount":1,"title":"Strong Effect UP C: Angel"}
+{"itemId":112,"itemCategory":4,"amount":1,"title":"Strong Effect UP B: Angel"}
+{"itemId":113,"itemCategory":4,"amount":1,"title":"Strong Effect UP A: Angel"}
+{"itemId":114,"itemCategory":4,"amount":1,"title":"Strong Effect UP S: Angel"}
+{"itemId":115,"itemCategory":4,"amount":1,"title":"Massive Damage Up D: Angel"}
+{"itemId":116,"itemCategory":4,"amount":1,"title":"Massive Damage Up C: Angel"}
+{"itemId":117,"itemCategory":4,"amount":1,"title":"Massive Damage Up B: Angel"}
+{"itemId":118,"itemCategory":4,"amount":1,"title":"Massive Damage Up A: Angel"}
+{"itemId":119,"itemCategory":4,"amount":1,"title":"Massive Damage Up S: Angel"}
+{"itemId":120,"itemCategory":4,"amount":1,"title":"Tough Effect Up D: Angel"}
+{"itemId":121,"itemCategory":4,"amount":1,"title":"Tough Effect Up C: Angel"}
+{"itemId":122,"itemCategory":4,"amount":1,"title":"Tough Effect Up B: Angel"}
+{"itemId":123,"itemCategory":4,"amount":1,"title":"Tough Effect Up A: Angel"}
+{"itemId":124,"itemCategory":4,"amount":1,"title":"Tough Effect Up S: Angel"}
+{"itemId":125,"itemCategory":4,"amount":1,"title":"Strong Effect UP D: Alien"}
+{"itemId":126,"itemCategory":4,"amount":1,"title":"Strong Effect UP C: Alien"}
+{"itemId":127,"itemCategory":4,"amount":1,"title":"Strong Effect UP B: Alien"}
+{"itemId":128,"itemCategory":4,"amount":1,"title":"Strong Effect UP A: Alien"}
+{"itemId":129,"itemCategory":4,"amount":1,"title":"Strong Effect UP S: Alien"}
+{"itemId":130,"itemCategory":4,"amount":1,"title":"Massive Damage Up D: Alien"}
+{"itemId":131,"itemCategory":4,"amount":1,"title":"Massive Damage Up C: Alien"}
+{"itemId":132,"itemCategory":4,"amount":1,"title":"Massive Damage Up B: Alien"}
+{"itemId":133,"itemCategory":4,"amount":1,"title":"Massive Damage Up A: Alien"}
+{"itemId":134,"itemCategory":4,"amount":1,"title":"Massive Damage Up S: Alien"}
+{"itemId":135,"itemCategory":4,"amount":1,"title":"Tough Effect Up D: Alien"}
+{"itemId":136,"itemCategory":4,"amount":1,"title":"Tough Effect Up C: Alien"}
+{"itemId":137,"itemCategory":4,"amount":1,"title":"Tough Effect Up B: Alien"}
+{"itemId":138,"itemCategory":4,"amount":1,"title":"Tough Effect Up A: Alien"}
+{"itemId":139,"itemCategory":4,"amount":1,"title":"Tough Effect Up S: Alien"}
+{"itemId":140,"itemCategory":4,"amount":1,"title":"Strong Effect UP D: Zombie"}
+{"itemId":141,"itemCategory":4,"amount":1,"title":"Strong Effect UP C: Zombie"}
+{"itemId":142,"itemCategory":4,"amount":1,"title":"Strong Effect UP B: Zombie"}
+{"itemId":143,"itemCategory":4,"amount":1,"title":"Strong Effect UP A: Zombie"}
+{"itemId":144,"itemCategory":4,"amount":1,"title":"Strong Effect UP S: Zombie"}
+{"itemId":145,"itemCategory":4,"amount":1,"title":"Massive Damage Up D: Zombie"}
+{"itemId":146,"itemCategory":4,"amount":1,"title":"Massive Damage Up C: Zombie"}
+{"itemId":147,"itemCategory":4,"amount":1,"title":"Massive Damage Up B: Zombie"}
+{"itemId":148,"itemCategory":4,"amount":1,"title":"Massive Damage Up A: Zombie"}
+{"itemId":149,"itemCategory":4,"amount":1,"title":"Massive Damage Up S: Zombie"}
+{"itemId":150,"itemCategory":4,"amount":1,"title":"Tough Effect Up D: Zombie"}
+{"itemId":151,"itemCategory":4,"amount":1,"title":"Tough Effect Up C: Zombie"}
+{"itemId":152,"itemCategory":4,"amount":1,"title":"Tough Effect Up B: Zombie"}
+{"itemId":153,"itemCategory":4,"amount":1,"title":"Tough Effect Up A: Zombie"}
+{"itemId":154,"itemCategory":4,"amount":1,"title":"Tough Effect Up S: Zombie"}
