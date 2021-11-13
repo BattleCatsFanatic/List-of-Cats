@@ -8,16 +8,16 @@
 {"itemId":7,"itemCategory":0,"amount":1,"title":"NP"}
 {"itemId":8,"itemCategory":0,"amount":1,"title":"dummy"}
 {"itemId":9,"itemCategory":0,"amount":1,"title":"dummy"}
-{"itemId":10,"itemCategory":0,"amount":1,"title":"dummy"}
-{"itemId":11,"itemCategory":0,"amount":1,"title":"dummy"}
-{"itemId":12,"itemCategory":0,"amount":1,"title":"dummy"}
-{"itemId":13,"itemCategory":0,"amount":1,"title":"dummy"}
-{"itemId":14,"itemCategory":0,"amount":1,"title":"dummy"}
-{"itemId":15,"itemCategory":0,"amount":1,"title":"dummy"}
-{"itemId":16,"itemCategory":0,"amount":1,"title":"dummy"}
-{"itemId":17,"itemCategory":0,"amount":1,"title":"dummy"}
-{"itemId":18,"itemCategory":0,"amount":1,"title":"dummy"}
-{"itemId":19,"itemCategory":0,"amount":1,"title":"dummy"}
+{"itemId":10,"itemCategory":0,"amount":1,"title":"5000 XP"}
+{"itemId":11,"itemCategory":0,"amount":1,"title":"10000 XP"}
+{"itemId":12,"itemCategory":0,"amount":1,"title":"30000 XP"}
+{"itemId":13,"itemCategory":0,"amount":1,"title":"50000 XP"}
+{"itemId":14,"itemCategory":0,"amount":1,"title":"100000 XP"}
+{"itemId":15,"itemCategory":0,"amount":1,"title":"200000 XP"}
+{"itemId":16,"itemCategory":0,"amount":1,"title":"500000 XP"}
+{"itemId":17,"itemCategory":0,"amount":1,"title":"1000000 XP"}
+{"itemId":18,"itemCategory":0,"amount":1,"title":"2000000 XP"}
+{"itemId":19,"itemCategory":0,"amount":1,"title":"XP 500000"}
 {"itemId":20,"itemCategory":0,"amount":1,"title":"Cat Ticket"}
 {"itemId":21,"itemCategory":0,"amount":1,"title":"Rare Ticket"}
 {"itemId":22,"itemCategory":0,"amount":1,"title":"Cat Food"}
@@ -58,16 +58,16 @@
 {"itemId":57,"itemCategory":0,"amount":1,"title":"Catamin [C]"}
 {"itemId":58,"itemCategory":0,"amount":1,"title":"dummy"}
 {"itemId":59,"itemCategory":0,"amount":1,"title":"dummy"}
-{"itemId":60,"itemCategory":0,"amount":1,"title":"dummy"}
-{"itemId":61,"itemCategory":0,"amount":1,"title":"dummy"}
-{"itemId":62,"itemCategory":0,"amount":1,"title":"dummy"}
-{"itemId":63,"itemCategory":0,"amount":1,"title":"dummy"}
-{"itemId":64,"itemCategory":0,"amount":1,"title":"dummy"}
-{"itemId":65,"itemCategory":0,"amount":1,"title":"dummy"}
-{"itemId":66,"itemCategory":0,"amount":1,"title":"dummy"}
-{"itemId":67,"itemCategory":0,"amount":1,"title":"dummy"}
-{"itemId":68,"itemCategory":0,"amount":1,"title":"dummy"}
-{"itemId":69,"itemCategory":0,"amount":1,"title":"dummy"}
+{"itemId":60,"itemCategory":0,"amount":1,"title":"Cat Cannon Attack"}
+{"itemId":61,"itemCategory":0,"amount":1,"title":"Cat Cannon Range"}
+{"itemId":62,"itemCategory":0,"amount":1,"title":"Cat Cannon Charge"}
+{"itemId":63,"itemCategory":0,"amount":1,"title":"Worker Cat Rate"}
+{"itemId":64,"itemCategory":0,"amount":1,"title":"Worker Cat Wallet"}
+{"itemId":65,"itemCategory":0,"amount":1,"title":"Base Defense"}
+{"itemId":66,"itemCategory":0,"amount":1,"title":"Research"}
+{"itemId":67,"itemCategory":0,"amount":1,"title":"Accountant"}
+{"itemId":68,"itemCategory":0,"amount":1,"title":"Study"}
+{"itemId":69,"itemCategory":0,"amount":1,"title":"Cat Energy"}
 {"itemId":70,"itemCategory":0,"amount":1,"title":"Cat Ally: Dummy 1"}
 {"itemId":71,"itemCategory":0,"amount":1,"title":"Cat Ally: Dummy 2"}
 {"itemId":72,"itemCategory":0,"amount":1,"title":"Cat Ally: Dummy 3"}
@@ -78,11 +78,11 @@
 {"itemId":77,"itemCategory":0,"amount":1,"title":"Lucky Ticket G"}
 {"itemId":78,"itemCategory":0,"amount":1,"title":"XP 100000"}
 {"itemId":79,"itemCategory":0,"amount":1,"title":"Cat Ally: Dummy 10"}
-{"itemId":80,"itemCategory":0,"amount":1,"title":"dummy"}
-{"itemId":81,"itemCategory":0,"amount":1,"title":"dummy"}
-{"itemId":82,"itemCategory":0,"amount":1,"title":"dummy"}
-{"itemId":83,"itemCategory":0,"amount":1,"title":"dummy"}
-{"itemId":84,"itemCategory":0,"amount":1,"title":"dummy"}
+{"itemId":80,"itemCategory":0,"amount":1,"title":"XP"}
+{"itemId":81,"itemCategory":0,"amount":1,"title":"XP"}
+{"itemId":82,"itemCategory":0,"amount":1,"title":"XP"}
+{"itemId":83,"itemCategory":0,"amount":1,"title":"XP"}
+{"itemId":84,"itemCategory":0,"amount":1,"title":"XP"}
 {"itemId":85,"itemCategory":0,"amount":1,"title":"Bricks"}
 {"itemId":86,"itemCategory":0,"amount":1,"title":"Feathers"}
 {"itemId":87,"itemCategory":0,"amount":1,"title":"Coal"}
