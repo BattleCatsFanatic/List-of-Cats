@@ -170,8 +170,13 @@
 {"itemId":157,"itemCategory":1,"amount":1,"title":"Nubobo"},
 {"itemId":158,"itemCategory":1,"amount":1,"title":"Uesugi Kenshin"},
 {"itemId":159,"itemCategory":1,"amount":1,"title":"Kalisa"},
-{"itemId":160,"itemCategory":1,"amount":1,"title":"Yuurinchii"},
+{"itemId":160,"itemCategory":1,"amount":1,"title":"Ayanokōji Shō"},
 {"itemId":161,"itemCategory":1,"amount":1,"title":"Crazed Kerihime"},
+{"itemId":162,"itemCategory":1,"amount":1,"title":"Yuurinchii"},
+{"itemId":163,"itemCategory":1,"amount":1,"title":"Saotome Hikaru"},
+{"itemId":164,"itemCategory":1,"amount":1,"title":"Saionji Hitomi"},
+{"itemId":165,"itemCategory":1,"amount":1,"title":"Hoshi Guranmanie"},
+{"itemId":166,"itemCategory":1,"amount":1,"title":"Shiratori Shōchikubai"},
 {"itemId":167,"itemCategory":1,"amount":1,"title":"Yankee Cat"},
 {"itemId":168,"itemCategory":1,"amount":1,"title":"Asiluga"},
 {"itemId":169,"itemCategory":1,"amount":1,"title":"Kubiluga"},
@@ -637,6 +642,10 @@
 {"itemId":629,"itemCategory":1,"amount":1,"title":"Brainwashed Cat"},
 {"itemId":631,"itemCategory":1,"amount":1,"title":"Yamii"},
 {"itemId":632,"itemCategory":1,"amount":1,"title":"Mighty Deth-Troy-R"},
+{"itemId":633,"itemCategory":1,"amount":1,"title":"Shitakiri Sparrow"},
+{"itemId":634,"itemCategory":1,"amount":1,"title":"White Knight Cyclops"},
+{"itemId":635,"itemCategory":1,"amount":1,"title":"1 Million Dollar Cat"},
+{"itemId":636,"itemCategory":1,"amount":1,"title":"Brainwashed Tank Cat"},
 ]
 }
 ]
